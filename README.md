@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LaCA - Intelligent Systems - [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa)
 
 You can use the [editor on GitHub](https://github.com/laca-is/laca-is.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
