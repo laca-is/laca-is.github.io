@@ -2,7 +2,8 @@
 
 ## About LaCA-IS
 
-The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned in developing solutions towards problems envolving transportation, like parking, trains, and vehicles. 
+The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developing solutions towards problems involving transportation, like parking, trains, and vehicles.
+ 
 
 ## Scenarios of applications:
 
@@ -19,38 +20,61 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned in developing 
 * Task Allocation
 * Negotiation Protocols
 
-You can use the [editor on GitHub](https://github.com/laca-is/laca-is.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---------------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects:
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+---------------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+# People:
 
-- Bulleted
-- List
+## Academic Staff
 
-1. Numbered
-2. List
+* Professor Gleifer Vaz Alves
+* Professor André Pinz Borges
 
-**Bold** and _Italic_ and `Code` text
+## Research Students
 
-[Link](url) and ![Image](src)
-```
+### MSc Students
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Lucas Fernando Souza de Castro (2016-)
+* Bruno Rafael Alves (2018-) _double degree IPB - Portugal_
 
-### Jekyll Themes
+### Undergraduate Research Students
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laca-is/laca-is.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Felipe Ducheiko (2016-)
+* Vithor Tozetto Ferreira (2017-) 
+* Douglas Cobiank (2018-)
+* Victor Muniz (2018-)
+* Alexandre (2018-)
+* Pedro Botelho (2018-)
 
-### Support or Contact
+## Main Collaborators
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Past Members
+
+### Undergraduate Research Students
+
+* Lucas Fernando Souza de Castro (2015)
+* Alexis Van Haare Heijmeijer (2016)
+* Wesley Ramos Cavalcante Gonçalves (2015-17)
+* Ângelo Bittencourt Marini Filho (2016-18)
+* Vinicius Custódio (2016-17)
+* Lucas Emanuel Ramos Fernandes (2016-17)
+* Carlos Eduardo Abade (2017-18)
+* Priscilla Dorado Gaertner Alonzo (2017-18)
+
+
+---------------------------------------------------------
+
+# Contact:
+
+Gleifer Vaz Alves: gleifer at utfpr.edu.br
+André Pinz Borges: apborges at utfpr.edu.br
+
+DAINF - Campus Ponta Grossa - UTFPR
+Av. Monteiro Lobato, s/n - km 04 
+CEP 84016-210 - Ponta Grossa - PR - Brasil
