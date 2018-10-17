@@ -1,8 +1,8 @@
-# LaCA - Intelligent Systems - [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa)
+# LaCA - Intelligent Systems 
 
 ## About LaCA-IS
 
-The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developing solutions towards problems involving transportation, like parking, trains, and vehicles.
+The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). We are mainly concerned with developing solutions towards problems involving transportation, like parking, trains, and vehicles.
  
 
 ## Scenarios of applications:
@@ -15,7 +15,7 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 
 * Implementation of Agents and Multi-Agent Systems
 * Formal Verification of Agents Multi-Agent Systems
-* Case-based reasoning
+* Case-based Reasoning
 * Rational Agents
 * Task Allocation
 * Negotiation Protocols
