@@ -33,8 +33,8 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 
 * **AVIA** (_Autonomous Vehicles with Intelligent Agents_):
 > brief description: this project has a two-fold goal: 
->> i. implement models for autonomous vehicles based on Intelligent Agents controlling the high-level functions which are used in the decision-making process (e.g. obstacle avoidance, autonomous control). Moreover, we are also interested in using formal verification towards the decision-making process of our Agents by using Model Checking for Agent Programming Languages (MCAPL);
->> ii. formalise the rules of the road for road junctions by using temporal logic; next, these rules should be embedded into Intelligent Agents (which model the behaviour of autonomous vehicles); and the behaviour of the Agents must be formally verified.
+>> 1. implement models for autonomous vehicles based on Intelligent Agents controlling the high-level functions which are used in the decision-making process (e.g. obstacle avoidance, autonomous control). Moreover, we are also interested in using formal verification towards the decision-making process of our Agents by using Model Checking for Agent Programming Languages (MCAPL)
+>> 1. formalise the rules of the road for road junctions by using temporal logic; next, these rules should be embedded into Intelligent Agents (which model the behaviour of autonomous vehicles); and the behaviour of the Agents must be formally verified.
 
 ---------------------------------------------------------
 
