@@ -25,16 +25,16 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 # Projects:
 
 * **MAPS** (_MultiAgent Parking System_):
-> brief description: ... desenvolver soluções baseadas em agentes e SMA para estacionamentos inteligentes.
+> brief description: develop solutions based on Agents and Multi-Agent Systems for smart parking using JaCaMo framework.
 
 
 * **Smart Parking**:
-> brief description: este projeto é uma extensão do projeto MAPS; conta com a participação de pesquisadores do IPB (Portugal); igualmente visa utilizar agentes e SMA, bem como aplicá-los em estacionamento inteligentes; contudo ainda considera embarcar agentes em plataformas de hardware, para assim construir protótipos das soluções idealizadas.
-
+> brief description: this project is indeed an extension of MAPS project, where we shall join our efforts with researchers from [IPB - Portugal](http://ipb.pt). Here we also are mainly concerned with smart parking applications based on Agents and Multi-Agent Systems. Besides, we shall embed Agents into hardware systems in order to build some prototypes.
 
 * **AVIA** (_Autonomous Vehicles with Intelligent Agents_):
-> brief description: implementar modelos para veículos autônomos, baseados em agentes inteligentes no controle de funções de alto-nível, usadas em tomadas de decisão (e.g., desvio de obstáculos, controle autônomo, retomada de controle manual). Ainda as decisões do agente inteligente devem ser formalmente verificadas por meio de técnicas de model checking. 
-
+> brief description: this project has a two-fold goal: 
+>> i. implement models for autonomous vehicles based on Intelligent Agents controlling the high-level functions which are used in the decision-making process (e.g. obstacle avoidance, autonomous control). Moreover, we are also interested in using formal verification towards the decision-making process of our Agents by using Model Checking for Agent Programming Languages (MCAPL);
+>> ii. formalise the rules of the road for road junctions by using temporal logic; next, these rules should be embedded into Intelligent Agents (which model the behaviour of autonomous vehicles); and the behaviour of the Agents must be formally verified.
 
 ---------------------------------------------------------
 
@@ -63,8 +63,11 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 
 ## Main Collaborators
 
-* Professor Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
+* Louise Dennis [Univ. of Liverpool - UK](https://cgi.csc.liv.ac.uk/~lad)
 * Professor Michael Fisher [Univ. of Liverpool - UK](http://cgi.csc.liv.ac.uk/~michael/)
+* Professor Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
+* Professor Rafael Bordini [PUCRS](http://www.inf.pucrs.br/r.bordini/Rafael_Bordini)
+
 
 ## Past Members
 
@@ -73,9 +76,9 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 * Lucas Fernando Souza de Castro (2015)
 * Alexis Van Haare Heijmeijer (2016)
 * Wesley Ramos Cavalcante Gonçalves (2015-17)
-* Ângelo Bittencourt Marini Filho (2016-18)
 * Vinicius Custódio (2016-17)
 * Lucas Emanuel Ramos Fernandes (2016-17)
+* Ângelo Bittencourt Marini Filho (2016-18)
 * Carlos Eduardo Abade (2017-18)
 * Priscilla Dorado Gaertner Alonzo (2017-18)
 
@@ -84,7 +87,7 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 
 # Contact:
 
-Gleifer Vaz Alves: gleifer at utfpr.edu.br
+Gleifer Vaz Alves: gleifer at utfpr.edu.br |
 André Pinz Borges: apborges at utfpr.edu.br
 
 DAINF - Campus Ponta Grossa - UTFPR
