@@ -11,7 +11,7 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 * Trains
 * Autonomous Vehicles
 
-## Topics of interest:
+## Topics of interest
 
 * Implementation of Agents and Multi-Agent Systems
 * Formal Verification of Agents Multi-Agent Systems
@@ -22,7 +22,7 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 
 ---------------------------------------------------------
 
-# Projects:
+# Projects
 
 * **MAPS** (_MultiAgent Parking System_):
 > brief description: develop solutions based on Agents and Multi-Agent Systems for smart parking using JaCaMo framework.
@@ -38,7 +38,7 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 
 ---------------------------------------------------------
 
-# People:
+# People
 
 ## Academic Staff
 
@@ -85,7 +85,7 @@ The LaCA-IS is part of LaCA lab at UTFPR. We are mainly concerned with developin
 
 ---------------------------------------------------------
 
-# Contact:
+# Contact
 
 Gleifer Vaz Alves: gleifer at utfpr.edu.br |
 André Pinz Borges: apborges at utfpr.edu.br
