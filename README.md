@@ -2,6 +2,8 @@
 
 ## About LaCA-IS
 
+![test](/logos/logo-LaCA-IS.png)
+
 The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). 
 
 We are mainly concerned with developing solutions towards problems involving transportation, like parking, trains, and vehicles.
@@ -23,8 +25,6 @@ We are mainly concerned with developing solutions towards problems involving tra
 * Negotiation Protocols
 
 ---------------------------------------------------------
-
-[SAE-taxi](https://github.com/laca-is/SAE)
 
 # Projects
 
