@@ -2,7 +2,7 @@
 
 ## About LaCA-IS
 
-![test](/logos/logo-LaCA-IS.png)
+![LaCA-IS](/logos/logo-LaCA-IS.png) ![UTF](/logos/logo_utfpr.png)
 
 The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). 
 
