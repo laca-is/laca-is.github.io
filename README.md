@@ -2,9 +2,7 @@
 
 ## About LaCA-IS
 
-![LaCA-IS](/logos/logo-LaCA-IS.png) ![UTF](/logos/logo_utfpr.png)
-
-![UTF](/logos/logo-UTF.jpg)
+![LaCA-IS](/logos/logo-LaCA-IS.png) ![UTF](/logos/logo-UTF.jpg)
 
 The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). 
 
@@ -99,3 +97,6 @@ André Pinz Borges: apborges at utfpr.edu.br
 DAINF - Campus Ponta Grossa - UTFPR
 Av. Monteiro Lobato, s/n - km 04 
 CEP 84016-210 - Ponta Grossa - PR - Brasil
+
+----------------------------------------------------------
+![UTF](/logos/logo_utfpr.png)
