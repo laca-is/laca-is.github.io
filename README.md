@@ -2,8 +2,6 @@
 
 ## About LaCA-IS 
 
-[LaCA-IS](/logos/logo-LaCA-IS.png)
-
 <p align="center"> 
 <img src="/logos/logo-LaCA-IS.png">
 </p>
