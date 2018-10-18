@@ -4,7 +4,7 @@
 
 ![LaCA-IS](/logos/logo-LaCA-IS.png)
 
-#container LaCA-IS {
+#container (/logos/logo-LaCA-IS.png) {
     vertical-align:middle;
     max-height:100%;
 }
