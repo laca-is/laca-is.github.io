@@ -101,4 +101,8 @@ Av. Monteiro Lobato, s/n - km 04
 CEP 84016-210 - Ponta Grossa - PR - Brasil
 
 ----------------------------------------------------------
-![UTF](/logos/logo_utfpr.png)
+
+<p align="center"> 
+<img src="/logos/logo_utfpr.png" width="450px" height="200px"/>
+</p>
+
