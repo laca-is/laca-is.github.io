@@ -4,6 +4,11 @@
 
 ![LaCA-IS](/logos/logo-LaCA-IS.png)
 
+#container LaCA-IS {
+    vertical-align:middle;
+    max-height:100%;
+}
+
 The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). 
 
 We are mainly concerned with developing solutions towards problems involving transportation, like parking, trains, and vehicles.
