@@ -1,8 +1,6 @@
 # LaCA - Intelligent Systems 
 
-## About LaCA-IS
-
-![UTF](/logos/logo-UTF.jpg) ![LaCA-IS](/logos/logo-LaCA-IS.png)
+## About LaCA-IS ![LaCA-IS](/logos/logo-LaCA-IS.png)
 
 The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). 
 
