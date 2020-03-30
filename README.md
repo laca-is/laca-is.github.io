@@ -51,7 +51,7 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 ## Academic Staff
 
-* Professor Gleifer Vaz Alves
+* Professor [Gleifer Vaz Alves](https://sites.google.com/view/gleifer)
 * Professor André Pinz Borges
 
 ## Research Students
