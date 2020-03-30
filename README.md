@@ -14,8 +14,10 @@ We are mainly concerned with developing solutions towards problems involving tra
 ## Scenarios of applications
 
 * Smart Parking
-* Trains
 * Autonomous Vehicles
+* Urban Traffic Environment
+* Trains
+
 
 ## Topics of interest
 
@@ -25,6 +27,7 @@ We are mainly concerned with developing solutions towards problems involving tra
 * Rational Agents
 * Task Allocation
 * Negotiation Protocols
+* Embedded Agents
 
 ---------------------------------------------------------
 
@@ -55,23 +58,24 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 ### MSc Students
 
-* Lucas Fernando Souza de Castro (2016-)
-* Bruno Rafael Alves (2018-) _double degree_ [IPB - Portugal](http://ipb.pt)
+* Lucas Fernando Souza de Castro (2016-2018)
+* Bruno Rafael Alves (2018-2019) _double degree_ [IPB - Portugal](http://ipb.pt)
+* Lucas Mendes (2020-...)  _double degree_ [IPB - Portugal](http://ipb.pt)
+* Milton (2020-...)  _double degree_ [IPB - Portugal](http://ipb.pt)
 
 ### Undergraduate Research Students
 
-* Felipe Ducheiko (2016-)
-* Vithor Tozetto Ferreira (2017-) 
-* Douglas Cobiank (2018-)
-* Victor Muniz (2018-)
-* Alexandre (2018-)
-* Pedro Botelho (2018-)
+* Vithor Tozetto Ferreira (2017-...) 
+* Alexandre (2018-...)
+* Pedro Botelho (2018-..)
+* André Lacomski (2020-...)
 
 ## Main Collaborators
 
 * Louise Dennis [Univ. of Liverpool - UK](https://cgi.csc.liv.ac.uk/~lad)
 * Professor Michael Fisher [Univ. of Liverpool - UK](http://cgi.csc.liv.ac.uk/~michael/)
 * Professor Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
+* Professor Carlos Pantoja [CEFET-RIO](https://turing.pro.br/kadupantoja/)
 * Professor Rafael Bordini [PUCRS](http://www.inf.pucrs.br/r.bordini/Rafael_Bordini)
 
 
@@ -79,6 +83,7 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 ### Undergraduate Research Students
 
+* Felipe Ducheiko (2016-2019)
 * Lucas Fernando Souza de Castro (2015)
 * Alexis Van Haare Heijmeijer (2016)
 * Wesley Ramos Cavalcante Gonçalves (2015-17)
