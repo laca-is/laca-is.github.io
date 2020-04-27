@@ -66,8 +66,9 @@ We are mainly concerned with developing solutions towards problems involving tra
 ### Undergraduate Research Students
 
 * Vithor Tozetto Ferreira (2017-...) 
-* Alexandre (2018-...)
+* Alexandre Mellado (2018-...)
 * Pedro Botelho (2018-..)
+* Carlos Lima (2019-...)
 * André Lacomski (2020-...)
 
 ## Main Collaborators
