@@ -45,6 +45,9 @@ We are mainly concerned with developing solutions towards problems involving tra
 >> 1. implement models for autonomous vehicles based on Intelligent Agents controlling the high-level functions which are used in the decision-making process (e.g. obstacle avoidance, autonomous control). Moreover, we are also interested in using formal verification towards the decision-making process of our Agents by using Model Checking for Agent Programming Languages (MCAPL)
 >> 1. formalise the rules of the road for road junctions by using temporal logic; next, these rules should be embedded into Intelligent Agents (which model the behaviour of autonomous vehicles); and the behaviour of the Agents must be formally verified.
 
+* **AIST** (_Architecture for developing Intelligent Systems applied to urban Traffic and transport_):
+> brief description: this project has as its main goal the development of a complete architecture for agent-based solutions applied to urban traffic and transport problems. In our architecture we shall have the following elements: **i.** a model description using formal logic; **ii.** a BDI-agent implementation describing the high-level decision-making process; **iii.** a Multi-Agent System (MAS) wrapping up the BDI-agent, the artefacts and the environment;  **iv.** apply formal verification tools (e.g., model checking) to verify the behaviour of our agents; **v.** use simulation tools to run the MAS in different scenarios; **vi.** embedded our agents into cyber-physical systems to test them in real-world scenarios.​
+
 ---------------------------------------------------------
 
 # People
@@ -60,23 +63,29 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 * Lucas Fernando Souza de Castro (2016-2018)
 * Bruno Rafael Alves (2018-2019) _double degree_ [IPB - Portugal](http://ipb.pt)
-* Lucas Mendes (2020-...)  _double degree_ [IPB - Portugal](http://ipb.pt)
-* Milton (2020-...)  _double degree_ [IPB - Portugal](http://ipb.pt)
+* Lucas Mendes (2020-2021)  _double degree_ [IPB - Portugal](http://ipb.pt)
+* Milton (2020-2021)  _double degree_ [IPB - Portugal](http://ipb.pt)
 
 ### Undergraduate Research Students
 
-* Vithor Tozetto Ferreira (2017-...) 
-* Alexandre Mellado (2018-...)
-* Pedro Botelho (2018-..)
-* Carlos Lima (2019-...)
-* André Lacomski (2020-...)
+* Alexandre Mellado (2018-2022)
+* Julio Cesar (2020-...)
+* Daniel Sadão (2021-...)
+* Jucinaldo (2021-...)
+* Luis Eduardo (2021-...)
+* Gabriel Maestre (2022-...)
+* Caio Furlan (2022-...)
+* Marden (2022-...)
+* Luis Gustavo (2022-...)
 
-## Main Collaborators
+## Researcher Collaborators
 
+* Maike Schwammberger [Univ. of Oldenburg](https://uol.de/csd/persons/dr-maike-schwammberger)
 * Louise Dennis [Univ. of Liverpool - UK](https://cgi.csc.liv.ac.uk/~lad)
 * Professor Michael Fisher [Univ. of Liverpool - UK](http://cgi.csc.liv.ac.uk/~michael/)
 * Professor Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
 * Professor Carlos Pantoja [CEFET-RIO](https://turing.pro.br/kadupantoja/)
+* Professor Nilson Lazarin [CEFET-RIO]
 * Professor Rafael Bordini [PUCRS](http://www.inf.pucrs.br/r.bordini/Rafael_Bordini)
 
 
@@ -84,6 +93,8 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 ### Undergraduate Research Students
 
+* Pedro Botelho (2018-2021)
+* Carlos Lima (2019-2020)
 * Felipe Ducheiko (2016-2019)
 * Lucas Fernando Souza de Castro (2015)
 * Alexis Van Haare Heijmeijer (2016)
