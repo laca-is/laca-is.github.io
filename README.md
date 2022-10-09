@@ -81,8 +81,8 @@ We are mainly concerned with developing solutions towards problems involving tra
 ## Researcher Collaborators
 
 * Maike Schwammberger [Univ. of Oldenburg](https://uol.de/csd/persons/dr-maike-schwammberger)
-* Louise Dennis [Univ. of Liverpool - UK](https://cgi.csc.liv.ac.uk/~lad)
-* Professor Michael Fisher [Univ. of Liverpool - UK](http://cgi.csc.liv.ac.uk/~michael/)
+* Louise Dennis [Univ. of Manchester - UK](https://personalpages.manchester.ac.uk/staff/louise.dennis/)
+* Professor Michael Fisher [Univ. of Manchester - UK](https://personalpages.manchester.ac.uk/staff/michael.fisher/)
 * Professor Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
 * Professor Carlos Pantoja [CEFET-RIO](https://turing.pro.br/kadupantoja/)
 * Professor Nilson Lazarin [CEFET-RIO]
