@@ -84,8 +84,8 @@ We are mainly concerned with developing solutions towards problems involving tra
 * Louise Dennis [Univ. of Manchester - UK](https://personalpages.manchester.ac.uk/staff/louise.dennis/)
 * Professor Michael Fisher [Univ. of Manchester - UK](https://personalpages.manchester.ac.uk/staff/michael.fisher/)
 * Professor Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
-* Professor Carlos Pantoja [CEFET-RIO](https://turing.pro.br/kadupantoja/)
-* Professor Nilson Lazarin [CEFET-RIO]
+* Professor Carlos Pantoja [CEFET-RIO/UFF](https://turing.pro.br/kadupantoja/)
+* Professor Nilson Lazarin [CEFET-RIO/UFF]
 * Professor Rafael Bordini [PUCRS](http://www.inf.pucrs.br/r.bordini/Rafael_Bordini)
 
 
