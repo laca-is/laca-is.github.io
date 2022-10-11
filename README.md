@@ -61,14 +61,14 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 ### MSc Students
 
-* Lucas Fernando Souza de Castro (2016-2018)
-* Bruno Rafael Alves (2018-2019) _double degree_ [IPB - Portugal](http://ipb.pt)
-* Lucas Mendes (2020-2021)  _double degree_ [IPB - Portugal](http://ipb.pt)
-* Milton (2020-2021)  _double degree_ [IPB - Portugal](http://ipb.pt)
+* Lucas Fernando Souza de Castro (2016-2018) [Dissertation](https://repositorio.utfpr.edu.br/jspui/handle/1/3829)
+* Bruno Rafael Alves (2018-2019) _double degree_ [IPB - Portugal](http://ipb.pt) [Dissertation](https://repositorio.utfpr.edu.br/jspui/handle/1/26493)
+* Lucas Mendes (2020-2021)  _double degree_ [IPB - Portugal](http://ipb.pt) [Dissertation](https://repositorio.utfpr.edu.br/jspui/handle/1/26466)
+* Milton (2020-2021)  _double degree_ [IPB - Portugal](http://ipb.pt) [Dissertation](https://repositorio.utfpr.edu.br/jspui/handle/1/26489)
 
 ### Undergraduate Research Students
 
-* Alexandre Mellado (2018-2022)
+* Alexandre Mellado (2018-2022) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/26730)
 * Julio Cesar (2020-...)
 * Daniel Sadão (2021-...)
 * Jucinaldo (2021-...)
@@ -93,18 +93,18 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 ### Undergraduate Research Students
 
-* Pedro Botelho (2018-2021)
-* Carlos Lima (2019-2020)
-* Felipe Ducheiko (2016-2019)
-* Lucas Fernando Souza de Castro (2015)
-* Alexis Van Haare Heijmeijer (2016)
-* Wesley Ramos Cavalcante Gonçalves (2015-17)
-* Vinicius Custódio (2016-17)
-* Lucas Emanuel Ramos Fernandes (2016-17)
-* Ângelo Bittencourt Marini Filho (2016-18)
-* Carlos Eduardo Abade (2017-18)
-* Priscilla Dorado Gaertner Alonzo (2017-18)
-
+* Pedro Botelho (2018-2021) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/26729)
+* Carlos Lima (2019-2020) [Abstract](https://eventos.utfpr.edu.br//sicite/sicite2020/paper/view/7317)
+* Felipe Ducheiko (2016-2019) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15996)
+* Priscilla Gaertner Alonzo & Carlos Abade (2017-18) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15965)
+* Ângelo Bittencourt Marini Filho (2016-18) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15964)
+* Lucas Emanuel Ramos Fernandes (2016-17) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15905)
+* Vinicius Custódio (2016-17) [final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15925)
+* Wesley Ramos Cavalcante Gonçalves (2015-17) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15922)
+* Alexis Van Haare Heijmeijer (2016) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15904)
+* Matheus Pereira Júnior (2016) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15930)
+* Lucas Fernando Souza de Castro (2015) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15912)
+* Fabiano Almeida Rosas (2014) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15907)
 
 ---------------------------------------------------------
 
