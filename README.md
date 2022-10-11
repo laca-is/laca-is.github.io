@@ -114,8 +114,8 @@ Gleifer Vaz Alves: gleifer at utfpr.edu.br |
 André Pinz Borges: apborges at utfpr.edu.br
 
 DAINF - Campus Ponta Grossa - UTFPR
-Av. Monteiro Lobato, s/n - km 04 
-CEP 84016-210 - Ponta Grossa - PR - Brasil
+R. Doutor Washington Subtil Chueire, 330 - Jardim Carvalho
+CEP 84017-220 - Ponta Grossa - PR - Brasil
 
 ----------------------------------------------------------
 
