@@ -99,7 +99,7 @@ We are mainly concerned with developing solutions towards problems involving tra
 * Priscilla Gaertner Alonzo & Carlos Abade (2017-18) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15965)
 * Ângelo Bittencourt Marini Filho (2016-18) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15964)
 * Lucas Emanuel Ramos Fernandes (2016-17) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15905)
-* Vinicius Custódio (2016-17) [final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15925)
+* Vinicius Custódio (2016-17) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15925)
 * Wesley Ramos Cavalcante Gonçalves (2015-17) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15922)
 * Alexis Van Haare Heijmeijer (2016) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15904)
 * Matheus Pereira Júnior (2016) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/15930)
