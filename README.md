@@ -6,7 +6,7 @@
 <img src="/logos/logo-LaCA-IS.png">
 </p>
 
-The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). 
+The LaCA-IS is part of LaCA lab at [UTFPR - Campus Ponta Grossa](http://portal.utfpr.edu.br/campus/pontagrossa). Check our [YouTube channell](https://www.youtube.com/channel/UCMZqpEE9agzF-QnjKdmmE9w/) for information on some projects.
 
 We are mainly concerned with developing solutions towards problems involving transportation, like parking, trains, and vehicles.
  
