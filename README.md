@@ -61,6 +61,9 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 ### MSc Students
 
+* Alexandre Mellado (2023-...) [MASPY](https://github.com/laca-is/MASPY)
+* Julio Cesar (2023-...) _double degree_ [IPB - Portugal](http://ipb.pt)
+* Felipe M. Izidorio (2024-...) _double degree_ [IPB - Portugal](http://ipb.pt)
 * Lucas Fernando Souza de Castro (2016-2018) [Dissertation](https://repositorio.utfpr.edu.br/jspui/handle/1/3829)
 * Bruno Rafael Alves (2018-2019) _double degree_ [IPB - Portugal](http://ipb.pt) [Dissertation](https://repositorio.utfpr.edu.br/jspui/handle/1/26493)
 * Lucas Mendes (2020-2021)  _double degree_ [IPB - Portugal](http://ipb.pt) [Dissertation](https://repositorio.utfpr.edu.br/jspui/handle/1/26466)
@@ -70,23 +73,27 @@ We are mainly concerned with developing solutions towards problems involving tra
 
 * Alexandre Mellado (2018-2022) [Final work](https://repositorio.utfpr.edu.br/jspui/handle/1/26730)
 * Julio Cesar (2020-...)
-* Daniel Sadão (2021-...)
-* Jucinaldo (2021-...)
-* Luis Eduardo (2021-...)
 * Gabriel Maestre (2022-...)
-* Caio Furlan (2022-...)
-* Marden (2022-...)
-* Luis Gustavo (2022-...)
+* João V. Markovicz Martins (2023-...)
+* Gabriel G. Neres (2023-...)
+* Igor Fidler (2023-...)
+* Gabriel Oliveira (2023-...)
+* Cainan T. e Silva (2024-...) [CLAG](https://github.com/laca-is/clag) 
+* Jonathan (2024-...)
+* Elquias (2024-...)
+* Igor Nagamassa Vieira Yamazaki (2024-...)
+
 
 ## Researcher Collaborators
 
 * Maike Schwammberger [Univ. of Oldenburg](https://uol.de/csd/persons/dr-maike-schwammberger)
 * Louise Dennis [Univ. of Manchester - UK](https://personalpages.manchester.ac.uk/staff/louise.dennis/)
-* Professor Michael Fisher [Univ. of Manchester - UK](https://personalpages.manchester.ac.uk/staff/michael.fisher/)
-* Professor Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
-* Professor Carlos Pantoja [CEFET-RIO/UFF](https://turing.pro.br/kadupantoja/)
-* Professor Nilson Lazarin [CEFET-RIO/UFF]
-* Professor Rafael Bordini [PUCRS](http://www.inf.pucrs.br/r.bordini/Rafael_Bordini)
+* Michael Fisher [Univ. of Manchester - UK](https://personalpages.manchester.ac.uk/staff/michael.fisher/)
+* Paulo Leitao [IPB - Portugal](http://www.ipb.pt/~pleitao/)
+* Carlos Pantoja [CEFET-RIO/UFF](https://turing.pro.br/kadupantoja/)
+* Nilson Lazarin [CEFET-RIO/UFF]
+* Rafael Cardoso [Univ. of Aberdeen - UK](https://rafaelcaue.github.io/)
+  
 
 
 ## Past Members
